@@ -1,0 +1,10 @@
+permissions:
+  '@tanstack/react-router':
+    skills: true
+  '@tanstack/react-start':
+    skills: true
+  esbuild:
+    build: true
+
+skills:
+  dirs: []
