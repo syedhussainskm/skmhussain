@@ -21,7 +21,7 @@ export const site = {
   phone: '+91 80874 22210',
   phoneHref: 'tel:+918087422210',
   linkedin: 'https://www.linkedin.com/in/khaja-moinuddin-hussain-syed-07185994',
-  website: 'https://hussainsyedcrm.vercel.app/',
+  website: 'https://skmhussain.vercel.app/',
   resume: '/files/Khaja-Moinuddin-Hussain-Syed-Resume.pdf',
   currentRole: 'Lead Developer @ 360 Degree Cloud',
   specialty: 'Dynamics 365 CE · Power Platform',
