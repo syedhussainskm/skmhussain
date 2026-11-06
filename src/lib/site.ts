@@ -373,6 +373,5 @@ export const nav = [
   { id: 'experience', label: 'Experience' },
   { id: 'projects', label: 'Projects' },
   { id: 'education', label: 'Education' },
-  {id: 'education1', label: 'Education1' },
   { id: 'contact', label: 'Contact' },
 ]
