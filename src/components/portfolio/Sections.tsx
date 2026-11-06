@@ -25,6 +25,7 @@ import {
 import {
   about,
   education,
+  education1,
   jobs,
   projects,
   site,
