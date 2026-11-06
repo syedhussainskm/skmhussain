@@ -714,7 +714,7 @@ export function Contact() {
     {
       icon: Globe,
       label: 'Website',
-      value: 'hussainsyedcrm.vercel.app',
+      value: 'skmhussain.vercel.app',
       href: site.website,
       external: true,
     },
